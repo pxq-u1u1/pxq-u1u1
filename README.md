@@ -1,16 +1,30 @@
-## Hi there 👋
+###
 
-<!--
-**pxq-u1u1/pxq-u1u1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">👋 Hey there, I'm pxq-u1u1 !</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+  - 🎓 I'm studying Accounting at **HKUST**.<br>
+  - 🌱 Currently learning **Financial Modeling** and **AI applications**.<br>
+  - ✈️ I love **travel** and **hiking** — always planning the next adventure.<br>
+  - 📝 I write about what I learn, projects I build, and life along the way.</p>
+
+###
+
+<h3 align="left">📫  Contact Me</h3>
+<p align="left">
+  <a href="https://pxq-u1u1.github.io/">
+    <img src="https://img.shields.io/badge/blog-pxq--u1u1.github.io-blue" />
+  </a>
+  <a href="https://github.com/pxq-u1u1">
+    <img src="https://img.shields.io/badge/github-pxq--u1u1-blue" />
+  </a>
+</p>
+
+<h3 align="center">每天努力一点</h3>
+
+###
