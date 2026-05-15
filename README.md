@@ -1,17 +1,6 @@
 ###
 
-<h1 align="left">Hi, I'm pxq-u1u1 📊</h1>
-
-###
-
-<h3 align="left">💼  Profile</h3>
-
-###
-
-  - 📋 Diligent Accounting student at **HKUST** with solid grounding in financial accounting, auditing, risk management, and investment banking.<br>
-  - 🔍 Internship experience across IPO due diligence, fund-flow verification, audit support, and equity research.<br>
-  - 📈 Strong data analysis and financial modeling capabilities.<br>
-  - 🎯 Committed to delivering accurate financial insights and data-driven decision-making.</p>
+<h1 align="left">👋 Hi, I'm pxq-u1u1</h1>
 
 ###
 
@@ -21,6 +10,7 @@
 
   - 🌱 Currently diving deep into **Financial Modeling** and **AI applications**.<br>
   - ✈️ I love **travel** and **hiking** — always planning the next adventure.<br>
+  - 💼 Currently seeking opportunities in **financial data analytics** and **risk & compliance**.<br>
   - 📝 I write about what I learn, projects I build, and life along the way.</p>
 
 ###
